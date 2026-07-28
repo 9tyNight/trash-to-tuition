@@ -221,7 +221,7 @@ function BrandHeader({ title, subtitle }) {
         <p className="small-label">{subtitle}</p>
         <h1>{title}</h1>
       </div>
-      <img className="brand-logo" src="/trash-to-tuition-logo.png" alt="Trash to Tuition" />
+      <img className="brand-logo" src="trash-to-tuition-logo.png" alt="Trash to Tuition" />
     </header>
   );
 }

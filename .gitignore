@@ -1,3 +1,5 @@
 node_modules/
 .vite/
 *.log
+trash-to-tuition-sites-*.tar.gz
+.deploy-gh-pages/
